@@ -12,7 +12,7 @@
     "angular": "^1.7.4",
     "body-parser": "^1.18.3",
     "ejs": "^2.6.1",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "mongodb": "^3.1.4",
     "mongoose": "^5.2.14",
     "socket.io": "^2.1.1"
